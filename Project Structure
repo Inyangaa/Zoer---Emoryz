@@ -1,0 +1,11 @@
+zoer-app/
+├── app/
+│   ├── api/          # API routes
+│   ├── dashboard/    # Dashboard page
+│   ├── login/        # Login page
+│   ├── signup/       # Signup page
+│   └── layout.tsx    # Root layout
+├── lib/              # Utility functions
+├── components/       # React components
+├── public/           # Static files
+└── schema.sql        # Database schema
