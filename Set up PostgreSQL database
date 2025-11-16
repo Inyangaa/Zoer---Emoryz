@@ -1,0 +1,2 @@
+createdb zoer_db
+psql zoer_db < schema.sql
