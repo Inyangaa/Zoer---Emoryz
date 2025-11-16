@@ -1,0 +1,6 @@
+POST /api/auth/signup - User registration
+POST /api/auth/login - User login
+GET /api/journal - Get all journal entries
+POST /api/journal - Create new journal entry
+POST /api/upload - Upload file
+POST /api/generate-image - Generate AI image
